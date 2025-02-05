@@ -94,7 +94,7 @@ export default App
 // for example go UseNavigation component
 
 {/* nested rout */}
-// nested rout is looks like /services/service-charges in url the /service-charges is a child of services thats why we creating its path and element inside it
+// nested rout is looks like /services/service-charges in url the /service-charges is a child of services thats why we are creating its path and element inside it
 
 //step-1 insert path and element of children
 /*children:[
